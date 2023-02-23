@@ -15,7 +15,7 @@ public class PasswordGenerator {
 			System.out.println("Number: " + numb );
 			char a = (char)numb;
 			pass = pass + a;
-
+			//bon
 		}
 	 
 
